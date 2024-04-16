@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Venkat263441
-- 👀 I’m interested in web development
+- 👋 Hi, I’m @VenkataKarthik
+- 👀 I’m interested in web development and android development
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on development projects
 - 📫 How to reach me venkat263441@gmail.com
